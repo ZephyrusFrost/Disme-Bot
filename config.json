@@ -1,22 +1,22 @@
 {
     "language": "en",
-    "DeveloperMode": true,
-    "autoCreateDB": false,
-    "allowInbox": false,
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
     "autoClean": true,
     "adminOnly": false,
     "encryptSt": true,
-    "UPTIME": 0,
-    "DASHBOARD": false,
+    "UPTIME": 999999,
+    "DASHBOARD": true,
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Bot Messenger",
-    "PREFIX": "!",
+    "BOTNAME": "𝙔𝙖𝙣𝙯𝙪𝙫2",
+    "PREFIX": "×",
     "ADMINBOT": [
-        "100004253741257"
+        "100052395031835"
     ],
     "APPSTATEPATH": "appstate.json",
     "SETUP_WIN": {
